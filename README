@@ -4,21 +4,20 @@ Works:
 -It boots and some apps work...
 -SDCard/USB mount - after first bootup, adb will not work until you reboot again.
 -RIL - phone, sms - working (thanks yumbrad)
--hw acceleration
+-HW acceleration
 -Live wallpapers work now too.
 -Screenshots work now.
 -Audio - tested phone, music, ringtones, so far. All work.
--bluetooth - able to pair headset and gets audio during phone call.
+-Bluetooth - able to pair headset and gets audio during phone call.
 
 What doesn't work:
-mms
-ril - data
-Everything else!
+-MMS
+-RILL - data
+-Everything else!
 
 Kernel:
 Now using Whyzor's latest touchscreen driver. 
 
 CAF information:
-
 Branch: froyo_pumpkin
 Tag: M7630AABBQMLZA2030
