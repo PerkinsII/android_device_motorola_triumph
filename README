@@ -1,12 +1,5 @@
 This is a WIP.
 
-It currently boots, but does little else.
-
-CAF information:
-
-Branch: froyo_pumpkin
-Tag: M7630AABBQMLZA2030
-
 Works:
 -It boots and some apps work...
 -SDCard/USB mount - after first bootup, adb will not work until you reboot again.
@@ -24,3 +17,8 @@ Everything else!
 
 Kernel:
 Now using Whyzor's latest touchscreen driver. 
+
+CAF information:
+
+Branch: froyo_pumpkin
+Tag: M7630AABBQMLZA2030
